@@ -4,4 +4,4 @@ time:2020-10-25T09:30:00
 speaker:Mr. Paresh Joshi, Head Training Manager, Bada Business
 speaker-img:paresh-sir.png
 details:🕴️ Join Team Dr. Vivek Bindra | 💸 Opportunity to Earn Upto 20 Lack per month | 🤝 Chance to become a family member of BADA BUSINESS | 🕴️ Be Your Own Boss | Become an IBC | 🕴️ Start Your Own Business With Dr. Vivek Bindra | 🕴️ Become an Independent Business Consultant | 💸 The more you Learn the more you Earn | 💡Come join us with very low Investment and handsome returns💰
-formEmbade:<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScHJu-pR3NWjZ9sVT3V2NePtd9bXmLQSgeh-Lwk-qJcks8R5A/viewform?embedded=true" width="80%" height="1200" frameborder="0" marginheight="0" marginwidth="0" style="overflow:hidden;">Loading…</iframe>
+formEmbade:<div style="overflow:hidden;height:1150px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScHJu-pR3NWjZ9sVT3V2NePtd9bXmLQSgeh-Lwk-qJcks8R5A/viewform?embedded=true" width="80%" height="1800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div>
