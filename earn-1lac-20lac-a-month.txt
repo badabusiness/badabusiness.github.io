@@ -6,4 +6,6 @@ speaker-img:paresh-sir.png
 details:Get the complete insights about Learning and Earning opportunity becoming IBC offered by Dr. Vivek Bindra | What is IBC? | 🕴️ Join Team Dr. Vivek Bindra | 💸 Opportunity to Earn Upto 20 Lack per month | 🤝 Chance to become a family member of BADA BUSINESS | 🕴️ Be Your Own Boss | Become an IBC | 🕴️ Start Your Own Business With Dr. Vivek Bindra | 🕴️ Become an Independent Business Consultant | 💸 The more you Learn the more you Earn | 💡Come join us with very low Investment and handsome returns💰
 formEmbade:
 meetLink:
-passcode:IBCUNLOCK
+code:IBCUNLOCK
+meetingID:864 6210 9697
+passcode:111
